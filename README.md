@@ -1,5 +1,5 @@
 # Tip-Calculator
-# How the Code Works
+# 💡How the Code Works
 
 This Python code is designed to calculate the fair split of a restaurant bill, including a tip, among a specified number of people. Here's a breakdown of how it works:
 
@@ -23,7 +23,7 @@ This Python code is designed to calculate the fair split of a restaurant bill, i
 
 7. **Output**: The final split bill amount per person is displayed to the user, rounded to two decimal places. This amount represents how much each person should contribute to cover the bill and tip evenly.
 
-# How It Can Be Used in Daily Life
+# 🌟 How It Can Be Used in Daily Life
 
 This code can be a handy tool in daily life for anyone who dines out with friends or family and wants to ensure a fair and convenient way to split the bill. Here are some scenarios where this code can be beneficial:
 
